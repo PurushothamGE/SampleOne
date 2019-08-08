@@ -1,2 +1,1 @@
-# SampleOne
-Practice Purpose
+# simple-java-maven-app
